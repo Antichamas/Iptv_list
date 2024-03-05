@@ -1,0 +1,45 @@
+logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais",Telecine Fun HD
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/95
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais",AMC HD
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais",MEGAPIX HD [Alter]
+http://64.31.40.14:14048/
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais",Studio Universal HD
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/100
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Canais",ESPN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4873 
+#EXTINF:-1 tvg-id="ESPN hd" tvg-name="ESPN hd" group-title="Canais",ESPN hd
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4789 
+#EXTINF:-1, ESPN HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3980 
+#EXTINF:-1, ESPN SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3979 
+#EXTINF:-1,ESPN EXTRA FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4874 
+#EXTINF:-1,ESPN EXTRA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4790 
+#EXTINF:-1, ESPN EXTRA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3977
+#EXTINF:-1, ESPN EXTRA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3978 
+#EXTINF:-1, ESPN2 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4875 
+#EXTINF:-1, ESPN2 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4791 
+#EXTINF:-1, ESPN2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3976 
+#EXTINF:-1, ESPN3 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4876 
+#EXTINF:-1, ESPN3 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4792 
+#EXTINF:-1, ESPN3 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3974 
+#EXTINF:-1, ESPN 4 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4878 
+#EXTINF:-1, ESPN 4 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3962 
+#EXTINF:-1,ESPN 4 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3961
